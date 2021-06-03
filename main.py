@@ -15,6 +15,7 @@ import streamlit.components.v1 as components
 url="data/dataonline.csv"
 
 
+#pip install pipwin
 
 
 st.sidebar.header("Amazure Online Shop")
