@@ -16,6 +16,7 @@ url="data/dataonline.csv"
 
 
 #pip install pipwin
+#pip install pypiwin32
 
 
 st.sidebar.header("Amazure Online Shop")
